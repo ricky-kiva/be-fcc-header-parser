@@ -1,3 +1,11 @@
 # Request Header Parser Microservice
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+This is a simple microservice to parse header on GET request.
+
+- Upload the file to the web app
+- The provided JSON includes header information:
+  - IP Address
+  - Language
+  - Software (User Agent)
+
+Link to the File Metadata microservice: https://b-end-fcc-header-parser.ricky-kiva.repl.co/
