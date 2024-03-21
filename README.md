@@ -8,4 +8,4 @@ This is a simple microservice to parse header on GET request.
   - Language
   - Software (User Agent)
 
-Link to the File Metadata microservice: https://b-end-fcc-header-parser.ricky-kiva.repl.co/
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://b-end-fcc-header-parser.ricky-kiva.repl.co/)
